@@ -1,0 +1,28 @@
+/*rn-main.css*/
+
+
+#refer-notes{
+width:100%;
+position:fixed;
+left:0px;
+top:0px;
+z-index: 1000; 
+}
+
+#refer-notes-button{
+background-color:beige;
+padding:2px;
+font-style:normal;
+color:red;
+font-weight:bold;
+position:absolute;
+right:100px;
+bottom:5px;
+z-index: 999; 
+}
+
+#refer-notes-button a{
+font-style:normal;
+color:red;
+font-weight:bold;
+}
